@@ -16,7 +16,7 @@ For Testing, I have used JUnit 4 along with Mockito. I have created 8 test cases
 
 # Refinements
 
-If I would have more time, I would have implemednted design pattern like Proxy design pattern in order to make the code more readable and more efficient.
+If I would have more time, I would have implemented design patterns in order to make the code more readable and more efficient.
 
 
 
