@@ -9,7 +9,7 @@ In order to tackle this problem, I have created HashSet of the NetworkRule Class
 The "AcceptPacket" method based on the above implementation returns true of false depending on the rule whether it exists in the sert or not.
 
 
-# Testing
+# Test
 For Testing, I have used JUnit 4 along with Mockito. I have created 8 test cases considering edge cases too and tested my code for those cases too. The test cases are written in "Firewalltests.java" file.
 
 
